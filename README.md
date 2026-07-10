@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -42,8 +43,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0556-next-greater-element-iii) |
+## Binary Search
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Sorting
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
