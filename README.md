@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0134-gas-station) |
 | [0496-next-greater-element-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0682-baseball-game) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0134-gas-station) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
