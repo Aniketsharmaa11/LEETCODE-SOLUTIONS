@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Math
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
