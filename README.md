@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aniketsharmaa11/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -150,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0938-range-sum-of-bst](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
