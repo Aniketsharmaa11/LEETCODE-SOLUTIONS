@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0556-next-greater-element-iii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Design
 |  |
 | ------- |
