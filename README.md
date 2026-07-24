@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0682-baseball-game) |
+| [0994-rotting-oranges](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0994-rotting-oranges](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aniketsharmaa11/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Binary Search Tree
 |  |
