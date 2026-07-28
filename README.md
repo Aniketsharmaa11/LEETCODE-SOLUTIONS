@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
