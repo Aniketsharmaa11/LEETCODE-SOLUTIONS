@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0496-next-greater-element-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0496-next-greater-element-i) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
