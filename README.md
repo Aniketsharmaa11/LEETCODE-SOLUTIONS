@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0496-next-greater-element-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0496-next-greater-element-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Simulation
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
