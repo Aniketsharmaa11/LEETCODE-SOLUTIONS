@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1510-stone-game-iv](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
