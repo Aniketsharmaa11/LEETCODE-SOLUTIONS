@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1592-rearrange-spaces-between-words](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
