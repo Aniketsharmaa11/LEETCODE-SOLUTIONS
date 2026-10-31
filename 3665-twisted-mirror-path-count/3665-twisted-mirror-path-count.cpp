@@ -6,7 +6,8 @@ private:
     int m, n;
     long long MOD = 1e9 + 7;
     // memo[r][c][dir]: dir=0 for Right, dir=1 for Down
-    int memo[505][505][2];
+    in
+    t memo[505][505][2];
 
     // solve returns the number of valid paths from empty cell (r, c) 
     // when choosing to move in direction 'dir'
