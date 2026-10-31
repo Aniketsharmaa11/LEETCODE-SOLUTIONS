@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Stack
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Binary Search Tree
 |  |
 | ------- |
