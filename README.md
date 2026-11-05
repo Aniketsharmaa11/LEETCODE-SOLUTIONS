@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aniketsharmaa11/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0556-next-greater-element-iii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Aniketsharmaa11/Leetcode/tree/master/0179-largest-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aniketsharmaa11/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniketsharmaa11/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
